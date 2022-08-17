@@ -8,7 +8,7 @@ public class pattern_3
     {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        int star=5;
+        int star=n;
         int row=1;
         while(row<=n)
         {
